@@ -1,7 +1,7 @@
 # nyu-travis-ci
 
 [![Build Status](https://travis-ci.com/SU21-DevOps-Shopcart/shopcarts.svg?branch=main)](https://travis-ci.com/SU21-DevOps-Shopcart/shopcarts)
-[![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-travis-ci.svg)]()
+[![codecov](https://codecov.io/gh/Ankushkaira17/lab-travis-ci/branch/master/graph/badge.svg?token=UFSR9UP57E)](https://codecov.io/gh/Ankushkaira17/lab-travis-ci)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
 This is for NYU DevOps lab on using Travis CI with Redis for Continuous Integration
